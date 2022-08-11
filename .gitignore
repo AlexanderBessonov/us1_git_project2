@@ -1,4 +1,7 @@
 
 /.idea/
 
+.gitignore
+
 /us1_git_project2.iml
+*.iml
